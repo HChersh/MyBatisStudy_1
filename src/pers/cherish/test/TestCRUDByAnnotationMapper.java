@@ -29,7 +29,7 @@ public class TestCRUDByAnnotationMapper {
 		UserMapperI mapper = sqlSession.getMapper(UserMapperI.class);
 		User user = new User();
 		user.setId(3);
-		user.setName("孤傲苍狼_xdp");
+		user.setName("jack");
 		user.setAge(26);
 		// 执行修改操作
 		int retResult = mapper.update(user);

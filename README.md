@@ -1,5 +1,5 @@
 # MyBatisStudy_1
-[GitHub源码下载地址 : https://github.com/HChersh/MyBatisStudy_1](https://github.com/HChersh/MyBatisStudy_1)
+[博客地址地址 : http://www.jianshu.com/p/d5fd54fb4f4d](http://www.jianshu.com/p/d5fd54fb4f4d)
 一篇有助于快速了解MyBatis的快速入门博客，涉及单表的CRUD，快速了解MyBatis如何分别使用xml配置文件和注解两种方式实现ORM，完成POJO与关系型数据库的sql语句间的映射。
 ###项目Demo结构了解&&搭建准备
 ##### 1.目录结构 
