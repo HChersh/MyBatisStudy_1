@@ -33,7 +33,7 @@
     </update>
     
     <!-- 查询全部用户-->
-    <select id="getAllUsers" resultType="pers.cherish.entity.User">
+    <select id="getAllUsers" resultType="_User">
         select * from users
     </select>
     
