@@ -21,7 +21,7 @@
         -->
         <!-- 注册UserMapper映射接口 -->
         <mapper class="pers.cherish.mapping.UserMapperI"/>
-         <mapper resource="pers/cherish/mapping/classMapper.xml"/>
+        <mapper resource="pers/cherish/mapping/classMapper.xml"/>
     </mappers>
     
 </configuration>
